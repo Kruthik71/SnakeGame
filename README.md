@@ -1,4 +1,4 @@
-# SnakeGame - (The project contains two files)
+# SnakeGame
 Snake.java 
   - Where everytime a board object is created to run the board.java file.
   - Later it is added to the Jframe and Relative location is set to null.
